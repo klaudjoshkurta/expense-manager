@@ -2,5 +2,7 @@
 </script>
 
 <template>
-	<div></div>
+	<div class="font-sans">
+		<div>Hello</div>
+	</div>
 </template>
