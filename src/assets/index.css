@@ -3,3 +3,8 @@
 @theme {
     --font-sans: "Inter", "system-ui";
 }
+
+@utility thin-scrollbar {
+    scrollbar-width: thin;
+    scrollbar-color: #e5e7eb;
+}

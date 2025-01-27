@@ -2,7 +2,7 @@
 </script>
 
 <template>
-	<div class="font-sans">
-		<div>Hello</div>
+	<div class="bg-[#fcfcfc] h-screen overflow-x-hidden thin-scrollbar">
+		
 	</div>
 </template>
