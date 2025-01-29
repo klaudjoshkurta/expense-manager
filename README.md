@@ -1,2 +1,2 @@
-# Habit
-Micro app for tracking habits.
+# Notepad
+Micro notepad web app.
