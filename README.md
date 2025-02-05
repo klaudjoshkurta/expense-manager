@@ -1,2 +1,2 @@
-### Notepad
-Micro notepad web app.
+### Expense Manager
+Micro web app to help users manage their expenses.
